@@ -2,8 +2,8 @@
 (Øvelse ws 18 jan 19)
 ### *blir dette på skrått ja det gjør det*
 
-#andre avsnitt#
+# andre avsnitt#
 
-##legg tull her
+## legg tull her
 
 
