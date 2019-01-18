@@ -4,4 +4,6 @@
 
 #andre avsnitt#
 
+##legg tull her
+
 
